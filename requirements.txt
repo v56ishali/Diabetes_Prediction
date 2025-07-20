@@ -1,0 +1,23 @@
+For Backend:
+
+pandas – for data manipulation
+ Install: pip install pandas
+
+numPy – for numerical operations
+ Install: pip install numPy
+
+scikit-learn (sklearn) – for machine learning models
+ Install: pip install scikit-learn
+
+pickle – for saving/loading model (standard library, no install needed)
+
+For Frontend
+
+streamlit – for creating the web interface
+ Install: pip install streamlit
+
+numPy – for creating the input array
+
+
+pickle – for loading the trained model
+ Built-in module
